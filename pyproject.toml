@@ -1,0 +1,23 @@
+[project]
+name = "practical-stats"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "adjusttext>=1.4.0",
+    "dmba>=0.2.4",
+    "imblearn>=0.0",
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.5",
+    "pandas>=3.1.1",
+    "prince>=0.23.1",
+    "pydotplus>=2.0.2",
+    "pygam>=0.12.0",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.15.0",
+    "wquantiles>=0.6",
+    "xgboost>=3.4.1",
+]
